@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/vivekrohit3" target="blank"><img src="https://img.shields.io/twitter/follow/vivekrohit3?logo=twitter&style=for-the-badge" alt="vivekrohit3" /></a> </p>
 
-- 🔭 I’m currently working on **Zenixus**
+- 🔭 I’m currently working on **GRASP TECHNOLOGIES**
 
-- 🌱 I’m currently learning **Nodejs**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **Developing**
 
